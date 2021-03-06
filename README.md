@@ -1,7 +1,25 @@
 # Snake
-Hello guys
 
-Welcome to this tutorial. In this guide we will show you how to make snake game and AI
+The purpose of this program is to create an AI that can partially automate certain
+parts of the playtesting phase in the game development
+industry. The program is to reduce the
+time and cost of the playtesting phase. The solution
+program developed is chosen to be based on
+a neural network and a genetic algorithm. Furthermore
+a snake game is developed in order to
+test the programs functionality. Two methods of
+playtesting are successfully automated. However,
+it is concluded that the program can only
+be considered a proof of concept. This is due to
+the programs lack of ability to handle complexity,
+as well as the amount of implementation
+required should the program be effectively used
+on another game. Furthermore, if the program
+was ever to be used on more complex games,
+then the neural network and the genetic algorithm
+would need to be significantly expanded
+and large amount of computing power would be
+necessary.
 
 
 # Genetic algorithm - How to use this program
