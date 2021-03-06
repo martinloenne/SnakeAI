@@ -76,3 +76,12 @@ Class GeneticAlgorithm:
 - AllTimeTopTenAgents (a list of the top ten performers)
 - AllTimeTopTenAverageFitness (the average fitness value of the top ten performers above)
 
+
+## Authors
+
+- Adil Cemalovic
+- Christian Damsgaard
+- Magnus Lund
+- Martin Lønne
+- Simon Holst
+- Søren Hjorth Boelskifte
