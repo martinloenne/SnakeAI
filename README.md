@@ -22,6 +22,13 @@ and large amount of computing power would be
 necessary.
 
 
+**A video of it completing snake:** https://www.youtube.com/watch?v=LkzVnO3fc9U&list=PLlS5RhZexhv1ki2NWbjrGetReNjHF0yM1&index=8
+Trainning UI: https://www.youtube.com/watch?v=EvhLvM_PPw4
+
+
+![Screenshot](snakedone.jpg)
+
+
 # Genetic algorithm - How to use this program
 
 The object GeneticAlgorithm makes it possible to create a genetic algorithm which is able to solve a unique problem. (trying to solve!)
