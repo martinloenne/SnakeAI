@@ -31,7 +31,7 @@ Trainning UI: https://www.youtube.com/watch?v=EvhLvM_PPw4
 
 # Genetic algorithm - How to use this program
 
-The object GeneticAlgorithm makes it possible to create a genetic algorithm which is able to solve a unique problem. (trying to solve!)
+The object GeneticAlgorithm makes it possible to create a genetic algorithm which is able to solve a unique problem.
 
 # What is required by the user for the algorithm to work?
 
